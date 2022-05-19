@@ -1,0 +1,7 @@
+envs/
+.vscode
+*.pyc
+instance/
+__pycache__
+Pipfile/
+pipfile.lock/
